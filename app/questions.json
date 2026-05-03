@@ -5,8 +5,23 @@
     "answer": 0
   },
   {
-    "question": "What is the primary goal of a CPA exam candidate for May 2027?",
-    "options": ["CPA Eligibility", "Becoming a Chef", "Learning to Fly"],
-    "answer": 0
+    "question": "In the COSO framework, which component addresses the 'tone at the top'?",
+    "options": ["Risk Assessment", "Control Environment", "Information and Communication"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of control is designed to stop an error or fraud before it occurs?",
+    "options": ["Detective Control", "Corrective Control", "Preventive Control"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary purpose of a disaster recovery plan (DRP)?",
+    "options": ["To prevent all cyber attacks", "To restore IT operations after an outage", "To decrease employee salaries"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is an example of a 'Biometric' authentication factor?",
+    "options": ["A password", "A physical key card", "A fingerprint scan"],
+    "answer": 2
   }
 ]
