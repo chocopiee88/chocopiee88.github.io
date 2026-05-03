@@ -53,7 +53,7 @@ document.getElementById('next-btn').onclick = () => {
             <div style="text-align: center; padding: 20px;">
                 <h2>Quiz Complete!</h2>
                 <p>Great job on the ISC review.</p>
-                <button onclick="location.reload()" class="option-btn" style="margin: 20px auto; background: #38bdf8; color: #0f172a; font-weight: bold; border: none;">
+                <button onclick="location.reload()" class="option-btn" style="margin: 20px auto; background: #38bdf8; color: #0f172a; font-weight: bold; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
                     Try Again
                 </button>
             </div>
